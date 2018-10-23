@@ -2,7 +2,7 @@
 .applies thead code { display: block; }
 .applies tbody th { white-space: nowrap; }
 .applies td { text-align: center; }
-.applies .yes, .yesno .yes { background: yellow; }
+.applies .yes, .yesno .yes { background: gray; }
 .yesno .yes, .yesno .no { text-align: center; }
 
 td.eg { border-width: thin; text-align: center; }
